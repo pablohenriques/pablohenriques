@@ -13,7 +13,7 @@ No dia a dia do desenvolvimento acredito que processos e/ou metodologias são im
 Por fim, neste momento, meu foco está em desenvolver uma aplicação que envolva extração de dados na web e text mining.
 ```
 
-## Conheicimentos
+## Conhecimentos
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://github.com/pablohenriques)](https://github.com/pablohenriques)
 [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&link=https://github.com/pablohenriques)](https://github.com/pablohenriques)
