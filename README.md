@@ -7,10 +7,7 @@
 ----
 ## About me
 ```
-Olá, meu nome é Pablo Henrique, sou um desenvolvedor backend Python e me divirto muito no que faço.
-Atualmente, cursando Sistemas de Infomração, gosto de estudar idiomas (Francês & Inglês) e realizar as tarefas disponíveis no Khan Academy. 
-No dia a dia do desenvolvimento acredito que processos e/ou metodologias são importantes para garantir a qualidade dos serviços e me importo com isso. 
-Por fim, neste momento, meu foco está em desenvolver uma aplicação que envolva extração de dados na web e text mining.
+Olá, meu nome é Pablo Henrique, sou um desenvolvedor backend Python, gosto de estudar idiomas (Francês & Inglês) e realizar as tarefas disponíveis no Khan Academy.No dia a dia do desenvolvimento acredito que processos e/ou metodologias são importantes para garantir a qualidade dos serviços e me importo com isso.
 ```
 
 ## Conhecimentos
