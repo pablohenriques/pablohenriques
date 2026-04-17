@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey! 👋 I'm Pablo Henriques
 
-<!--
-**pablohenriques/pablohenriques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student passionate about algorithms, data structures, and full-stack development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tech Stack**
+
+**Languages:** Python • Go • Kotlin
+
+**Frontend:** Vue.js, HTML/CSS
+
+**Backend:** Python, Go
+
+---
+
+## 📂 **Main Projects**
+
+- **[Psiacademic-Analytics-VI](https://github.com/Engenharia-Inteligente-de-Dados/Psiacademic-Analytics-VI)** - Software Engineering capstone
+- **[Gerenciador Estoque](https://github.com/pablohenriques/gerenciador-estoque)** - Inventory management system (Python)
+- **[Avaliacao Tinnova](https://github.com/pablohenriques/avaliacao_tinnova)** - Web application (Vue)
+- **[Entendendo Algoritmos](https://github.com/pablohenriques/entendendo-algoritmos)** - Learning repository (Python)
+- **[Codes (DSA)](https://github.com/pablohenriques/codes)** - Data Structures & Algorithms (Kotlin)
+
+---
+
+## 📊 **GitHub Stats**
+
+- 21 repositories
+- Active in learning and development
+- Focus on algorithms, data structures, and practical projects
+
+---
+
+## 🎯 **Currently**
+
+- 🔍 Exploring different programming languages
+- 📚 Deepening knowledge in algorithms and data structures
+- 🤝 Contributing to academic projects
+
+---
+
+**[View all repositories](https://github.com/pablohenriques?tab=repositories)**
