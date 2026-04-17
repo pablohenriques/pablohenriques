@@ -10,7 +10,7 @@ Software Engineering student passionate about algorithms, data structures, and f
 
 **Frontend:** Vue.js, HTML/CSS
 
-**Backend:** Python, Go
+**Backend:** Python, Go, Kotlin
 
 ---
 
