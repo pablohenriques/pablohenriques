@@ -18,8 +18,6 @@ Software Engineering student passionate about algorithms, data structures, and f
 
 - **[Psiacademic-Analytics-VI](https://github.com/Engenharia-Inteligente-de-Dados/Psiacademic-Analytics-VI)** - Software Engineering capstone
 - **[Gerenciador Estoque](https://github.com/pablohenriques/gerenciador-estoque)** - Inventory management system (Python)
-- **[Avaliacao Tinnova](https://github.com/pablohenriques/avaliacao_tinnova)** - Web application (Vue)
-- **[Entendendo Algoritmos](https://github.com/pablohenriques/entendendo-algoritmos)** - Learning repository (Python)
 - **[Codes (DSA)](https://github.com/pablohenriques/codes)** - Data Structures & Algorithms (Kotlin)
 
 ---
