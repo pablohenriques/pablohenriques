@@ -1,5 +1,10 @@
 # Pablo Henriques
 
+<details>
+<summary><strong>English</strong></summary>
+
+## About me
+
 **Software Engineer | Backend development | Brazil**
 
 I am a Software Engineer with experience building backend features, APIs, and automated tests. I work mainly with Kotlin, Spring Boot, Python, and FastAPI. I also have experience with full-stack development and cloud-based products.
@@ -36,9 +41,12 @@ I am a Software Engineer with experience building backend features, APIs, and au
 - **English:** B1
 - **Portuguese:** Native (Brazilian Portuguese)
 
----
+</details>
 
-# Português (Brasil)
+<details>
+<summary><strong>Português (Brasil)</strong></summary>
+
+## Sobre mim
 
 **Engenheiro de Software | Desenvolvimento back-end | Brasil**
 
@@ -75,6 +83,8 @@ Sou Engenheiro de Software com experiência no desenvolvimento de funcionalidade
 
 - **Inglês:** nível B1
 - **Português:** nativo (português brasileiro)
+
+</details>
 
 ---
 
