@@ -1,27 +1,41 @@
-# Pablo Henriques
+# Hey! 👋 I'm Pablo Henriques
 
-Software Engineer focused on backend development, APIs, and automated testing. Experienced with Kotlin and Spring Boot, Python and FastAPI, and full-stack product development.
-
-## Featured project
-
-### [mdconjunto](https://github.com/pablohenriques/mdconjunto)
-A Python API for creating sets, developed as part of a Discrete Mathematics course. The project is organized into a controller, view, and set-related components.
-
-## Contributions
-
-![Contribution graph](https://ghchart.rshah.org/409ba5/pablohenriques)
+Software Engineering student passionate about algorithms, data structures, and full-stack development.
 
 ---
 
-# Português (Brasil)
+## 🛠️ **Tech Stack**
 
-Engenheiro de Software com foco em desenvolvimento back-end, APIs e testes automatizados. Experiência com Kotlin e Spring Boot, Python e FastAPI, além de desenvolvimento de produtos full-stack.
+**Languages:** Python • Go • Kotlin
 
-## Projeto em destaque
+**Frontend:** Vue.js, HTML/CSS
 
-### [mdconjunto](https://github.com/pablohenriques/mdconjunto)
-API em Python para criação de conjuntos, desenvolvida como parte de uma disciplina de Matemática Discreta. O projeto é organizado em componentes de controlador, visualização e operações com conjuntos.
+**Backend:** Python, Go, Kotlin
 
-## Contribuições
+---
 
-![Matriz de contribuições](https://ghchart.rshah.org/409ba5/pablohenriques)
+## 📂 **Main Projects**
+
+- **[Psiacademic-Analytics-VI](https://github.com/Engenharia-Inteligente-de-Dados/Psiacademic-Analytics-VI)** - Software Engineering capstone
+- **[Gerenciador Estoque](https://github.com/pablohenriques/gerenciador-estoque)** - Inventory management system (Python)
+- **[Codes (DSA)](https://github.com/pablohenriques/codes)** - Data Structures & Algorithms (Kotlin)
+
+---
+
+## 📊 **GitHub Stats**
+
+- 21 repositories
+- Active in learning and development
+- Focus on algorithms, data structures, and practical projects
+
+---
+
+## 🎯 **Currently**
+
+- 🔍 Exploring different programming languages
+- 📚 Deepening knowledge in algorithms and data structures
+- 🤝 Contributing to academic projects
+
+---
+
+**[View all repositories](https://github.com/pablohenriques?tab=repositories)**
